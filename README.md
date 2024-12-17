@@ -38,13 +38,6 @@
   </picture>
 </div>
 
-## 🚀 Signature Projects
-
-<div align="center">
-  <a href="https://github.com/sh33ikh/quantum-ml-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh33ikh&repo=quantum-ml-framework&theme=tokyonight" alt="Highlighted Project"/>
-  </a>
-</div>
 
 ## 🌐 Digital Nexus
 
