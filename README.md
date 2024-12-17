@@ -4,28 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=🌐+Full+Stack+Architect;🧠+AI+%26+Machine+Learning+Enthusiast;🔬+Innovation+Engineer;💡+Problem+Solver+Extraordinaire" alt="Dynamic Typing Introduction"/>
 </div>
 
-## 🌈 Quantum Profile Snapshot
-
-<details open>
-<summary>🔍 <strong>Algorithmic Personal Signature</strong></summary>
-
-```typescript
-interface LikhonSheikh {
-  name: "Likhon Sheikh";
-  role: "Full Stack Innovator";
-  coreCompetencies: [
-    "Web Development",
-    "Cloud Architecture", 
-    "AI/ML Engineering",
-    "DevOps Optimization"
-  ];
-  currentMission: "Transforming Ideas into Digital Reality";
-  openToCollaborate: true;
-  contactHint: "Explore my digital ecosystem below 👇";
-}
-```
-</details>
-
 ## 🛠 Technology Constellation
 
 <div align="center">
