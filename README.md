@@ -66,13 +66,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh33ikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Dynamics"/>
 </div>
 
-## 🎵 Current Sonic Landscape
-
-<div align="center">
-  <a href="https://open.spotify.com/user/likhonsheikh">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=53b14f&title_color=fff" alt="Musical Vibes"/>
-  </a>
-</div>
 
 ## 💡 Philosophical Byte
 
