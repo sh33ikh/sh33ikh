@@ -25,18 +25,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&include_all_commits=true&count_private=true" alt="Dynamic GitHub Stats"/>
   </picture>
   
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh" alt="Contribution Streak"/>
-  </picture>
-</div>
+
 
 
 ## 🌐 Digital Nexus
