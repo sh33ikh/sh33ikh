@@ -83,5 +83,5 @@
 ---
 
 <div align="center">
-  <sup>🌟 Engineered with ❤️ & Infinite Curiosity | Last Synchronization: `DYNAMIC_TIMESTAMP`</sup>
+  <sup>🌟 Engineered with ❤️ & Infinite Curiosity </sup>
 </div>
