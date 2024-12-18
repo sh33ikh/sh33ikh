@@ -1,56 +1,42 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalpurush&weight=600&size=30&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=🌐+পূর্ণাঙ্গ+স্ট্যাক+আর্কিটেক্ট;🧠+AI+%26+মেশিন+লার্নিং+উৎসাহী;🔬+নবাচার+প্রকৌশলী;💡+সমস্যা+সমাধানকারী+অসাধারণ" alt="Dynamic Typing Introduction in Bengali"/>
-</div>
+<h1 align="center">Hi 👋, I'm sh33ikh</h1>
+<h3 align="center">A passionate developer exploring the world of code</h3>
 
-## 🛠 প্রযুক্তি তারকামণ্ডল
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,rust,tensorflow,kubernetes,docker,aws,gcp,nextjs,graphql,flutter&perline=7" alt="Technology Ecosystem"/>
-</div>
+<p align="left">
+<!-- You can add your current activity or status here -->
+🔭 I'm currently working on improving my coding skills
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  </picture>
-</div>
+🌱 I'm currently learning new technologies and frameworks
 
-### 🌍 যোগাযোগ চ্যানেল
-<div align="center">
-  <a href="https://linktr.ee/sh33ikh" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/likhonsheikh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/likhonsheikh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</div>
+👯 I'm looking to collaborate on interesting open source projects
 
-## 💡 আমার দর্শন
-আমি হচ্ছি একজন তরুণ প্রকৌশলী যিনি প্রযুক্তিতে নবাচার এবং সমাধানের মাধ্যমে বিশ্বকে আরও ভাল করে তুলতে আন্তরিক। AI, মেশিন লার্নিং এবং পূর্ণাঙ্গ স্ট্যাক বিকাশে আমার গভীর আগ্রহ রয়েছে।
+</p>
 
-## 🚀 প্রধান দক্ষতা
-- **প্রোগ্রামিং ভাষাসমূহ**: পাইথন, টাইপস্ক্রিপ্ট, রাস্ট
-- **ফ্রন্টএন্ড**: React, Next.js, Flutter
-- **ব্যাকএন্ড**: Node.js, GraphQL
-- **AI & ML**: TensorFlow, মেশিন লার্নিং মডেল
-- **ক্লাউড**: AWS, GCP
-- **DevOps**: Docker, Kubernetes
+### 🛠 Tech Stack
 
-## 🏆 উল্লেখযোগ্য প্রকল্প
-1. **Rekt Chat**: AI-চালিত চ্যাটবট
-2. **নিজস্ব ML মডেল**
-3. **ক্লাউড-নেটিভ অ্যাপ্লিকেশন**
+<!-- Add or modify these badges according to your skills -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 🌱 বর্তমান লক্ষ্য
-- AI এর নতুন সীমা অন্বেষণ
-- ওপেন সোর্স প্রকল্পে অবদান
-- ক্রমাগত শেখার যাত্রা চালিয়ে যাওয়া
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&theme=radical" alt="sh33ikh's GitHub stats" />
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quantum"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh&theme=radical" alt="sh33ikh's streak stats" />
+</p>
+
+### 🤝 Connect with me:
+<!-- Add your social media links -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](Your_LinkedIn_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](Your_Twitter_URL)
+
+### 👨‍💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh33ikh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
-
-<div align="center">
-  <sup>🌟 অসীম কৌতূহল ও ভালোবাসায় তৈরি </sup>
-</div>
+⭐️ From [sh33ikh](https://github.com/sh33ikh)
