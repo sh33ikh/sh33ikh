@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-আমি **লিখন শেখ**, একজন **পূর্ণাঙ্গ ডেভেলপার** যিনি **Web3**, **ব্লকচেইন**, এবং **DeFi** প্রযুক্তিতে দক্ষ। আমি বর্তমানে **Web3 Security** নিয়ে কাজ করছি এবং নিজেকে প্রতিনিয়ত শিখতে এবং উন্নত করতে চেষ্টা করছি।
+আমি **Likhon Sheikh**, একজন **পূর্ণাঙ্গ ডেভেলপার** এবং **ব্লকচেইন** ও **Web3** প্রযুক্তিতে বিশেষজ্ঞ। বর্তমানে আমি **Web3 Security** শিখতে আগ্রহী এবং ওপেন সোর্সে অবদান রাখতে ভালোবাসি।
 
-### আমি যেসব প্রযুক্তি ব্যবহার করি:
+### প্রযুক্তি স্ট্যাক
 
 #### ফ্রন্টএন্ড:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
