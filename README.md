@@ -1,6 +1,6 @@
 <div align="center">
   
-# লিখন শেখ | ফুল-স্ট্যাক এবং ব্লকচেইন ডেভেলপার
+![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&label=প্রোফাইল+ভিউ&color=blueviolet&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/sh33ikh?style=social&label=অনুসরণকারী)](https://github.com/sh33ikh)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh33ikh?style=social&label=টুইটার)](https://twitter.com/sh33ikh)
 
@@ -40,9 +40,7 @@
 
 <div align="center">
 
-### 📊 গিটহাব পরিসংখ্যান
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=contribs,issues&locale=bn)](https://github.com/sh33ikh)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sh33ikh&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/sh33ikh)
 
 </div>
@@ -57,16 +55,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sh33ikh)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sh33ikh)
 
-## 💰 ক্রিপ্টো ওয়ালেট
 ```
 ETH: 0x6dD47369f097569bA3A61733FCD1D5CF0a5FDD30
 ```
 
 <div align="center">
 
-### 🏆 অর্জন
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sh33ikh&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/sh33ikh)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&label=প্রোফাইল+ভিউ&color=blueviolet&style=flat)
 
 </div>
