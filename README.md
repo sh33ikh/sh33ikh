@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=পূর্ণাঙ্গ+ডেভেলপার;ব্লকচেইন+উৎসাহী;ওপেন+সোর্স+অংশগ্রহণকারী;Web3+ইনোভেটর"/>
   </p>
 
-  <img src="https://raw.githubusercontent.com/sh33ikh/sh33ikh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/sh33ikh/sh33ikh/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 🚀 আমার সম্পর্কে
