@@ -1,8 +1,10 @@
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&label=প্রোফাইল+ভিউ&color=blueviolet&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/sh33ikh?style=social&label=অনুসরণকারী)](https://github.com/sh33ikh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sh33ikh?style=social&label=টুইটার)](https://twitter.com/sh33ikh)
+![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&label=Profile+Views&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/sh33ikh?style=social&label=Followers)](https://github.com/sh33ikh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sh33ikh?style=social&label=Twitter)](https://twitter.com/sh33ikh)
+</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F3FF7&center=true&vCenter=true&width=435&lines=ফুল+স্ট্যাক+ডেভেলপার;ব্লকচেইন+ইঞ্জিনিয়ার;ওয়েব৩+সিকিউরিটি+রিসার্চার" alt="Typing SVG" />
