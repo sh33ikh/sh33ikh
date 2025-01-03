@@ -1,13 +1,13 @@
 <div align="center">
-  
-  # ✨ Welcome to My Digital World! I'm sh33ikh ✨
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&color=blueviolet&style=flat-square)](https://github.com/sh33ikh)
-  
+  <h1>✨ Welcome to My Digital World! I'm sh33ikh ✨</h1>
+
+  <a href="https://github.com/sh33ikh">
+    <img src="https://komarev.com/ghpvc/?username=sh33ikh&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </a>
+
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor"/>
   </p>
-
 </div>
 
 <!-- Ad Section with Copy Button -->
@@ -18,44 +18,45 @@
       Copy Code
     </button>
   </div>
-  
-  ```html
-  <script async="async" data-cfasync="false" src="//pl25461582.profitablecpmrate.com/b7c6e71a50c3d59c50a8584826fcd66c/invoke.js"></script>
-  <div id="container-b7c6e71a50c3d59c50a8584826fcd66c"></div>
-  ```
-  
-  <div id="container-b7c6e71a50c3d59c50a8584826fcd66c"></div>
+  <pre>
+    <code>
+      <script async="async" data-cfasync="false" src="//pl25461582.profitablecpmrate.com/b7c6e71a50c3d59c50a8584826fcd66c/invoke.js"></script>
+      <div id="container-b7c6e71a50c3d59c50a8584826fcd66c"></div>
+    </code>
+  </pre>
 </div>
 
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```javascript
+<script>
 const sh33ikh = {
   code: ["JavaScript", "Python", "Solidity", "React"],
   passions: ["Web Development", "Blockchain", "Open Source"],
   currentFocus: "Building innovative web3 solutions",
   funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
-```
+</script>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+  <!-- Languages & Frameworks -->
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  </div>
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+  <!-- Tools & Technologies -->
+  <div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </div>
 </div>
 
 <!-- Another Ad Section -->
@@ -78,32 +79,19 @@ const sh33ikh = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your_Twitter_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RektDevelopers)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh33ikh)
-
-</div>
-
-<!-- Add this script at the end of your README -->
-<script>
-function copyAdCode() {
-  const adCode = `<script async="async" data-cfasync="false" src="//pl25461582.profitablecpmrate.com/b7c6e71a50c3d59c50a8584826fcd66c/invoke.js"><\/script>
-<div id="container-b7c6e71a50c3d59c50a8584826fcd66c"></div>`;
-  
-  navigator.clipboard.writeText(adCode)
-    .then(() => alert('Ad code copied to clipboard!'))
-    .catch(err => console.error('Failed to copy:', err));
-}
-</script>
-
----
-
-<div align="center">
-  
-### 🌟 Show some ❤️ by starring my repositories!
-
-![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-  
+  <a href="https://t.me/RektDevelopers">
+    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">Join RektDevelopers</button>
+  </a>
+  <a href="https://t.me/RexxCheat">
+    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">Join RexxCheat</button>
+  </a>
+  <a href="https://likhon.dev">
+    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">likhon.dev</button>
+  </a>
+  <a href="https://likhon.xyz">
+    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">likhon.xyz</button>
+  </a>
+  <a href="https://likhonsheikh.com">
+    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">likhonsheikh.com</button>
+  </a>
 </div>
