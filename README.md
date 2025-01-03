@@ -1,62 +1,78 @@
 <div align="center">
   <h1>✨ আমার ডিজিটাল জগতে স্বাগতম! আমি sh33ikh ✨</h1>
-
-  <a href="https://github.com/sh33ikh">
-    <img src="https://komarev.com/ghpvc/?username=sh33ikh&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  </a>
-
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&color=blueviolet&style=flat-square)](https://github.com/sh33ikh)
+  [![GitHub followers](https://img.shields.io/github/followers/sh33ikh?style=social)](https://github.com/sh33ikh)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/sh33ikh?style=social)](https://twitter.com/sh33ikh)
+  
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=পূর্ণাঙ্গ+ডেভেলপার;ব্লকচেইন+উৎসাহী;ওপেন+সোর্স+অংশগ্রহণকারী"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=পূর্ণাঙ্গ+ডেভেলপার;ব্লকচেইন+উৎসাহী;ওপেন+সোর্স+অংশগ্রহণকারী;Web3+ইনোভেটর"/>
   </p>
+
+  <img src="https://raw.githubusercontent.com/sh33ikh/sh33ikh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🚀 আমার সম্পর্কে
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-আমি একজন পূর্ণাঙ্গ ডেভেলপার এবং ব্লকচেইন উৎসাহী। আমি উদ্ভাবনী ওয়েব৩ সমাধান তৈরি করতে এবং ওপেন সোর্স প্রকল্পে অবদান রাখতে ভালোবাসি।
+```typescript
+const sh33ikh = {
+    role: "পূর্ণাঙ্গ ডেভেলপার",
+    focus: ["Web3", "ব্লকচেইন", "DeFi"],
+    passions: ["ওপেন সোর্স", "উদ্ভাবন", "কমিউনিটি"],
+    currentlyLearning: "Web3 Security"
+};
+```
 
-## 🛠️ প্রযুক্তি সমৃদ্ধি
+## 🛠️ প্রযুক্তি স্ট্যাক
 
-<div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </div>
-</div>
+### ফ্রন্টএন্ড
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ব্যাকএন্ড
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ব্লকচেইন
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
+
+### টুলস
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 গিটহাব এনালাইটিক্স
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh33ikh&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh33ikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
-## 🤝 আমার সাথে যোগাযোগ করুন
+<img src="https://activity-graph.herokuapp.com/graph?username=sh33ikh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+## 🤝 যোগাযোগ
 
 <div align="center">
-  <a href="https://t.me/RektDevelopers">
-    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">RektDevelopers এ যোগ দিন</button>
-  </a>
-  <a href="https://t.me/RexxCheat">
-    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">RexxCheat এ যোগ দিন</button>
-  </a>
-  <a href="https://likhon.dev">
-    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">likhon.dev</button>
-  </a>
-  <a href="https://likhon.xyz">
-    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">likhon.xyz</button>
-  </a>
-  <a href="https://likhonsheikh.com">
-    <button style="background: #4F46E5; color: white; padding: 10px 20px; border-radius: 5px; border: none; cursor: pointer;">likhonsheikh.com</button>
-  </a>
+  
+[![Telegram](https://img.shields.io/badge/RektDevelopers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RektDevelopers)
+[![Telegram](https://img.shields.io/badge/RexxCheat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RexxCheat)
+[![Website](https://img.shields.io/badge/likhon.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://likhon.dev)
+[![Website](https://img.shields.io/badge/likhon.xyz-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://likhon.xyz)
+[![Website](https://img.shields.io/badge/likhonsheikh.com-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://likhonsheikh.com)
+
+</div>
+
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
