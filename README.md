@@ -8,6 +8,9 @@
 - 💻 Always eager to contribute to open-source projects
 - ⚡ Fun fact: I debug with console.log()
 
+<script async="async" data-cfasync="false" src="//pl25461582.profitablecpmrate.com/b7c6e71a50c3d59c50a8584826fcd66c/invoke.js"></script>
+<div id="container-b7c6e71a50c3d59c50a8584826fcd66c"></div>
+
 ## Tech Stack 💪
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
