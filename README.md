@@ -23,7 +23,7 @@
 
 ## 💻 প্রযুক্তিগত দক্ষতা
 
-### ফ্রন্টএন্ড,  ডাটাবেস এবং টুলস , ব্যাকএন্ড এবং ব্লকচেইন
+### ফ্রন্টএন্ড,  ডাটাবেস এবং টুলস , ব্যাকএন্ড এবং ব্লকচেইন! 🤝
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,8 +46,6 @@
 [![Primary](https://img.shields.io/badge/likhon.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://likhon.dev)
 [![Secondary](https://img.shields.io/badge/likhon.xyz-4353FF?style=for-the-badge&logo=About.me&logoColor=white)](https://likhon.xyz)
 [![Portfolio](https://img.shields.io/badge/likhonsheikh.com-FF3366?style=for-the-badge&logo=About.me&logoColor=white)](https://likhonsheikh.com)
-
-## 🤝 যোগাযোগ
 [![Telegram](https://img.shields.io/badge/RektDevelopers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RektDevelopers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sh33ikh)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sh33ikh)
