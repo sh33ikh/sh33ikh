@@ -58,8 +58,6 @@ const sh33ikh = {
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sh33ikh&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sh33ikh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
 ## 🤝 যোগাযোগ
 
 <div align="center">
