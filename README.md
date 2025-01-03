@@ -1,6 +1,3 @@
-<div align="center">
-  <h1>✨ আমার ডিজিটাল জগতে স্বাগতম! আমি sh33ikh ✨</h1>
-  
   [![Profile Views](https://komarev.com/ghpvc/?username=sh33ikh&color=blueviolet&style=flat-square)](https://github.com/sh33ikh)
   [![GitHub followers](https://img.shields.io/github/followers/sh33ikh?style=social)](https://github.com/sh33ikh)
   [![Twitter Follow](https://img.shields.io/twitter/follow/sh33ikh?style=social)](https://twitter.com/sh33ikh)
@@ -8,8 +5,6 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=পূর্ণাঙ্গ+ডেভেলপার;ব্লকচেইন+উৎসাহী;ওপেন+সোর্স+অংশগ্রহণকারী;Web3+ইনোভেটর"/>
   </p>
-
-  ![Snake animation](https://github.com/sh33ikh/sh33ikh/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## 🚀 আমার সম্পর্কে
